@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Qt;KDE;AudioVideo;DiscBurning;
+Keywords=mount,iso,mdf,ngr,bin,cue,burn,convert,acetoneiso,cd,dvd,image
+Exec=acetoneiso %f
+Icon=Acetino2
+MimeType=application/x-iso;
+Name=AcetoneISO
+GenericName=CD/DVD image manipulator
+GenericName[it]=Strumenti per immagini CD/DVD
+GenericName[de]=CD/DVD-Abbildmanager
+GenericName[ru]=Манипулятор CD/DVD образов
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

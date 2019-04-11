@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libmenu
+libmenu.so
+libmenu.dylib
+libmenu.dll
+libmenu.a
+libmenu.lib
+libmenu-test-*
+*.exe
+*.o
+*.obj
+*.lst
